@@ -272,3 +272,5 @@ Add entries following this pattern:
 - AIChE Center for Chemical Process Safety — https://www.aiche.org/ccps
 - Kletz, T. (2003). *What Went Wrong? — Case Histories of Process Plant Disasters*, 5th Ed.
 - Lees, F. (2012). *Loss Prevention in the Process Industries*, 4th Ed.
+#   h a z o p - n l p  
+ 
