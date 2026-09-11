@@ -1,0 +1,117 @@
+INCIDENT REPORT — BP Texas City Refinery Explosion and Fire
+Date: March 23, 2005
+Location: Texas City, Texas, USA
+Facility: BP Products North America Inc. — Texas City Refinery
+Source: U.S. Chemical Safety and Hazard Investigation Board (CSB) Report No. 2005-04-I-TX
+
+EXECUTIVE SUMMARY
+
+On March 23, 2005, a catastrophic explosion and fire occurred at the BP Texas City
+refinery. Fifteen workers were killed and 180 others were injured. The incident was
+the deadliest industrial accident in the United States in over a decade.
+
+The explosion occurred during the startup of the raffinate splitter tower at the
+isomerisation unit. A hydrocarbon liquid and vapour cloud ignited, causing a massive
+explosion and fire. The raffinate splitter tower had been overfilled with liquid
+hydrocarbon (raffinate), causing the liquid level to rise dangerously.
+
+PROCESS DESCRIPTION
+
+The raffinate splitter is a distillation column operating at approximately 100 psig
+and temperatures of 250°F at the bottom. The feed is a C5-C6 hydrocarbon raffinate
+stream. The tower separates lighter pentane fractions overhead from heavier hexane
+bottoms product.
+
+During the startup, operators fed raffinate into the tower over three hours without
+establishing a flow out of the tower bottom. The level instrument in the tower
+malfunctioned and gave a false reading, showing the level was normal when in fact
+the tower was overfilling.
+
+ROOT CAUSES
+
+1. Organisational and safety culture deficiencies at BP Texas City plant
+2. Level transmitter malfunction — the level indicator in the raffinate splitter tower
+   failed and showed a falsely low level reading throughout the startup procedure.
+3. Operators were not informed of multiple level transmitter failures prior to startup.
+4. The blowdown drum and stack were undersized and not adequate to handle the
+   large volume of hydrocarbon vapour released during the relief event.
+5. Pressure relief valves opened as designed, discharging flammable hydrocarbons
+   to the blowdown drum. The blowdown drum overflowed, and liquid hydrocarbons
+   cascaded down the stack and spread across the ground.
+6. Trailers housing contract workers were placed too close to the process unit,
+   contrary to the site siting standard.
+
+IMMEDIATE CAUSES
+
+- Overfilling of the raffinate splitter tower with liquid hydrocarbon
+- Loss of level control due to failed instrument
+- Pressure relief valve opening discharging C5/C6 hydrocarbons to inadequate
+  blowdown drum
+- Liquid overflow from blowdown drum forming pool of flammable liquid
+- Ignition of flammable vapour cloud by idling pickup truck engine
+
+CONSEQUENCES
+
+- 15 fatalities, all of whom were located in or near contractor trailers
+- 180 injuries
+- Destruction of the isom unit and surrounding structures
+- Major fire burning for several days
+- Evacuation of the surrounding community
+- Environmental contamination from spilled hydrocarbons and firefighting water
+
+CHEMICALS INVOLVED
+
+- C5/C6 hydrocarbon raffinate (highly flammable, autoignition temperature ~260°C)
+- Gasoline components
+- Hydrogen (present in adjacent units)
+- Pentane (explosive limits 1.5% to 7.8% in air)
+- Hexane (explosive limits 1.1% to 7.5% in air)
+
+EQUIPMENT FAILURES
+
+- Raffinate splitter distillation column (level instrument failure)
+- Blowdown drum — undersized for actual hydrocarbon inventory
+- Blowdown stack — open-top design, not routed to flare system
+- Pressure relief valves (opened as designed — not a failure, but inadequate downstream)
+- Level transmitter (float-type — failed to read actual level)
+
+SAFEGUARD FAILURES
+
+- Level transmitter reading falsely low — operators had no true indication of tower level
+- No independent high-level alarm that would have warned operators
+- No interlock to stop raffinate feed on high-high level
+- Blowdown drum not connected to the flare system
+- Emergency response plan did not account for trailer siting near process units
+
+RECOMMENDED SAFEGUARDS
+
+1. Install independent redundant level measurement (1oo2 or 2oo3 voting) on
+   distillation towers and all critical vessels during startup.
+2. Connect all blowdown systems and pressure relief valve discharges to a closed
+   flare system — eliminate all open-discharge blowdown stacks.
+3. Implement a startup checklist with mandatory independent verification of all
+   level instrument functionality before introducing feed.
+4. Relocate non-essential personnel trailers at least 150 metres from process units
+   per API RP 752 siting guidelines.
+5. Establish a high-high level interlock (SIS) that automatically stops feed and
+   initiates controlled shutdown on excessive level.
+6. Conduct pre-startup safety reviews (PSSR) for all major equipment restarts
+   following maintenance.
+7. Implement a process safety management culture improvement programme addressing
+   organisational failures identified in the investigation.
+
+LESSONS LEARNED
+
+This incident demonstrates the critical importance of:
+- Reliable and redundant level instrumentation on distillation columns
+- Adequate blowdown and pressure relief system design
+- Proper siting of occupied buildings relative to process units
+- A strong process safety culture starting at the management level
+- Effective pre-startup safety reviews
+
+The CSB found that BP Texas City had a history of similar near-miss incidents
+involving the raffinate splitter and other units that were not adequately investigated
+or addressed. A strong near-miss reporting culture could have prevented this tragedy.
+
+Reference: CSB Investigation Report No. 2005-04-I-TX, "Refinery Explosion and Fire"
+Available at: https://www.csb.gov/bp-america-refinery-explosion/

@@ -1,0 +1,152 @@
+PROCESS SAFETY INCIDENT REPORT — Ammonia Refrigeration System Release
+Date: August 2019
+Location: Food Processing Facility (anonymised)
+Source: Generic incident report based on multiple AIChE EPSC case studies
+
+PROCESS DESCRIPTION
+
+The facility operates a large industrial ammonia refrigeration system used for
+cold storage of food products. The system contains approximately 15,000 kg of
+anhydrous ammonia refrigerant operating in a closed-loop cycle.
+
+The refrigeration system consists of:
+- Ammonia compressors (3 × reciprocating compressors, 150 kW each)
+- High-pressure receiver vessel (10,000 litre, design pressure 25 barg)
+- Low-pressure receiver / surge drum (15,000 litre, design pressure 10 barg)
+- Shell and tube evaporators in cold storage rooms
+- Shell and tube condenser (water-cooled)
+- Expansion valves and associated pipework
+- Refrigeration pipework throughout the facility (DN25 to DN150)
+
+Operating conditions:
+- High-side pressure: 14–16 barg (condensing)
+- Low-side pressure: 1.5–3.5 barg (evaporating)
+- Ammonia inventory: ~15,000 kg (liquid and vapour)
+- Design temperature range: -40°C to +50°C
+
+INCIDENT DESCRIPTION
+
+During a maintenance activity, a flanged joint on the liquid ammonia line between
+the high-pressure receiver and the expansion valves was disturbed. The joint had
+been incorrectly re-assembled following a routine inspection, with two bolts not
+tightened to the specified torque.
+
+Three days later, during the early morning shift, a pinhole leak developed at the
+flange. Ammonia vapour began escaping into the machine room. The toxic gas detector
+in the machine room alarmed at 25 ppm (the STEL threshold).
+
+The operator who responded to the alarm entered the machine room without wearing
+the supplied-air breathing apparatus (SABA) that was stored in a locker adjacent
+to the room. The operator was overcome by ammonia vapour within 30 seconds and
+collapsed.
+
+A second operator was alerted and activated the emergency shutdown (ESD) system,
+which closed all automatic isolation valves and stopped the compressors. The
+second operator then donned SABA equipment and retrieved the first operator.
+
+The first operator was hospitalised with chemical burns to the respiratory tract
+and eyes. He recovered fully after 4 days.
+
+An estimated 200 kg of ammonia was released before the ESD isolated the system.
+The vapour cloud dissipated outside the building through roof ventilation.
+
+ROOT CAUSES
+
+1. Maintenance failure — flange reassembled incorrectly after inspection
+2. No torque verification procedure for flanged joints on ammonia lines
+3. No leak test conducted after reassembly of the flanged joint
+4. Operator did not wear PPE (SABA) when responding to gas alarm
+
+IMMEDIATE CAUSES
+
+- Incorrectly torqued flange bolts → gradual leak → escalating release
+- Operator entered hazardous atmosphere without respiratory protection
+
+CONTRIBUTING FACTORS
+
+- Maintenance procedures did not specify torque values for flange reassembly
+- PPE (SABA) was stored in a locker adjacent to the hazardous area rather than
+  in a safe location outside the machine room
+- The initial alarm response procedure did not clearly state that SABA must be
+  worn before entering the machine room
+- Inadequate supervision of maintenance work on ammonia lines
+
+CHEMICALS INVOLVED
+
+- Anhydrous ammonia (NH3): colourless toxic gas, IDLH 300 ppm, STEL 25 ppm,
+  LEL 15%, UEL 28%, TLV-TWA 25 ppm, refrigerant grade > 99.99% purity
+- Cooling water (secondary circuit)
+
+CONSEQUENCES
+
+- 1 operator hospitalised (respiratory and eye chemical burns, full recovery)
+- 200 kg ammonia release — no community impact (building contained vapour)
+- Production shutdown for 72 hours during repair and investigation
+- Regulatory notification to environmental authority required
+
+PROCESS PARAMETER DEVIATIONS
+
+- Pressure: LESS (local pressure drop at leaking flange)
+- Concentration: MORE (ammonia concentration in machine room atmosphere)
+- Flow: AS WELL AS (unintended flow of ammonia vapour to machine room)
+- Procedure: OTHER THAN (maintenance procedure not followed correctly)
+
+SAFEGUARD PERFORMANCE
+
+Safeguards that worked:
+- Toxic gas detector in machine room (alarmed at 25 ppm — functioned correctly)
+- Emergency shutdown (ESD) system (activated successfully by second operator)
+- Roof ventilation system (dispersed vapour to atmosphere safely)
+- Automatic isolation valves (closed on ESD — minimised total release quantity)
+
+Safeguards that failed or were inadequate:
+- Maintenance procedure (no torque specification, no post-maintenance leak test)
+- PPE availability and use (SABA stored in hazardous area, operator did not use it)
+- Alarm response procedure (did not mandate PPE use before entry)
+
+RECOMMENDED SAFEGUARDS
+
+1. Revise all maintenance procedures for ammonia lines to specify:
+   - Required torque values for all flanged joint bolt patterns
+   - Mandatory post-reassembly pressure test / leak detection before returning
+     the line to service
+   - Sign-off by a second qualified technician (independent verification)
+
+2. Relocate all emergency PPE (SABA, chemical suits) to a clearly marked safe
+   refuge location at least 15 metres from the machine room entry, upwind.
+
+3. Revise the alarm response procedure to state clearly:
+   "DO NOT ENTER machine room after gas alarm without SABA — don PPE at safe
+   refuge point before entry."
+
+4. Install continuous monitoring of flanged joint integrity on high-consequence
+   ammonia lines (acoustic emission or fixed gas detectors at critical joints).
+
+5. Implement a permit-to-work (PTW) system requiring sign-off from the production
+   manager before any work begins on the ammonia refrigeration system.
+
+6. Conduct HAZOP review of the maintenance and inspection process (as a process in
+   itself) to identify further latent failure modes.
+
+7. Install additional toxic gas detectors at all maintenance access points to the
+   ammonia system.
+
+LESSONS LEARNED
+
+1. Maintenance activities on toxic gas systems carry high inherent risk.
+   Every reassembly of a pressure joint must be treated as safety-critical and
+   followed by a leak test before the system is returned to service.
+
+2. Emergency PPE must be accessible WITHOUT entering the hazardous area.
+   Storing SABA inside or immediately adjacent to the hazardous area defeats its
+   purpose — operators will not be able to don it before exposure.
+
+3. Alarm response procedures must be specific about PPE requirements and must be
+   regularly drilled so that the correct response is automatic under stress.
+
+4. The ammonia refrigeration industry has a well-documented history of maintenance-
+   related releases. IIAR (International Institute of Ammonia Refrigeration)
+   guidelines and ASHRAE 15 provide specific requirements to prevent such incidents.
+
+Reference: Based on AIChE EPSC Loss of Containment data and IIAR Bulletin 110
+guidance on ammonia refrigeration system safety.

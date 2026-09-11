@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.gguf
+data/raw/
+data/processed/
+outputs/
+models/llm/
+*.xlsx
+*.log
+.DS_Store
