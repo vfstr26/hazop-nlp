@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "name": "System Administrator",
+      "password": "30d4961d3d16d286e98a18171ef59ec3e7c900f0e369f4725cfbd97a638e8176",
+      "role": "admin",
+      "email": "admin@hazop.local"
+    },
+    {
+      "username": "engineer1",
+      "name": "Process Engineer",
+      "password": "e7042ac7d09c7bc41c8cfa5749e41858f6980643bc0db1a83cc793d3e24d3f77",
+      "role": "engineer",
+      "email": "engineer@hazop.local"
+    },
+    {
+      "username": "viewer1",
+      "name": "Safety Reviewer",
+      "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "viewer",
+      "email": "viewer@hazop.local"
+    },
+    {
+      "username": "Da_Marcos",
+      "name": "Allan Chakachaka",
+      "password": "2823576859b5816a6e11186a25356117e0d67d0fffd233f1de55585806583d01",
+      "role": "admin",
+      "email": "chakachakaallan45@gmail.com"
+    }
+  ]
+}
